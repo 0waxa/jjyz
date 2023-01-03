@@ -1,0 +1,466 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.jjyz.cn/index.aspx?cid=10",
+            "path": "index.html",
+            "saved": true,
+            "size": 142341,
+            "children": [
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131222142619.jpg",
+                    "path": "img/20131222142619.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131222142627.jpg",
+                    "path": "img/20131222142627.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131222142635.jpg",
+                    "path": "img/20131222142635.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204115249.jpg",
+                    "path": "img/20131204115249.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204115500.jpg",
+                    "path": "img/20131204115500.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120119.jpg",
+                    "path": "img/20131204120119.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120253.jpg",
+                    "path": "img/20131204120253.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120356.jpg",
+                    "path": "img/20131204120356.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120419.jpg",
+                    "path": "img/20131204120419.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120440.jpg",
+                    "path": "img/20131204120440.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120515.jpg",
+                    "path": "img/20131204120515.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120550.jpg",
+                    "path": "img/20131204120550.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120615.jpg",
+                    "path": "img/20131204120615.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120640.jpg",
+                    "path": "img/20131204120640.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/LinkLogo/20131204120710.jpg",
+                    "path": "img/20131204120710.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/2013-12/201312042328200001.jpg",
+                    "path": "img/201312042328200001.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/2013-12/201312042342550001.gif",
+                    "path": "img/201312042342550001.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/2013-12/201312042343220001.gif",
+                    "path": "img/201312042343220001.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/2014-1/201401090906350001.jpg",
+                    "path": "img/201401090906350001.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/images/beian.png",
+                    "path": "img/beian.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/images/gzh.jpg",
+                    "path": "img/gzh.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/attachment/CMS/2014-1/201401201520150001.swf",
+                    "path": "media/201401201520150001.swf",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/Js/cookie.js",
+                    "path": "js/cookie.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Js/Jquery.js",
+                    "path": "js/Jquery.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Js/Slider.js",
+                    "path": "js/Slider.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jjyz.cn/style.css",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Style.css",
+                    "path": "css/Style.css",
+                    "saved": true,
+                    "size": 23416,
+                    "children": [
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_103.jpg",
+                            "path": "img/9j1z_103.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_01.jpg",
+                            "path": "img/9j1z_01.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/none",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_02.jpg",
+                            "path": "img/9j1z_02.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/sjsj_23.jpg",
+                            "path": "img/sjsj_23.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_03.jpg",
+                            "path": "img/9j1z_03.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_09.jpg",
+                            "path": "img/9j1z_09.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_06.jpg",
+                            "path": "img/9j1z_06.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_05.jpg",
+                            "path": "img/9j1z_05.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_08.jpg",
+                            "path": "img/9j1z_08.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_33.jpg",
+                            "path": "img/9j1z_33.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_04.jpg",
+                            "path": "img/9j1z_04.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_31.jpg",
+                            "path": "img/9j1z_31.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/dian_03.jpg",
+                            "path": "img/dian_03.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/dl_03.jpg",
+                            "path": "img/dl_03.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_54.jpg",
+                            "path": "img/9j1z_54.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_56.jpg",
+                            "path": "img/9j1z_56.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_003.jpg",
+                            "path": "img/9j1z_003.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_74.jpg",
+                            "path": "img/9j1z_74.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_75.jpg",
+                            "path": "img/9j1z_75.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_79.jpg",
+                            "path": "img/9j1z_79.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_82.jpg",
+                            "path": "img/9j1z_82.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_85.jpg",
+                            "path": "img/9j1z_85.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9j1z_94.jpg",
+                            "path": "img/9j1z_94.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/xyi_03.jpg",
+                            "path": "img/xyi_03.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/abou_06.jpg",
+                            "path": "img/abou_06.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/new_03.jpg",
+                            "path": "img/new_03.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9jyz_06.jpg",
+                            "path": "img/9jyz_06.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9jyz_07.jpg",
+                            "path": "img/9jyz_07.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jjyz.cn/CMS_Templete/JJYZ/Images/9jyz_05.jpg",
+                            "path": "img/9jyz_05.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "www-jjyz-cn-6s679g3r",
+    "info": {
+        "remark": [],
+        "title": "学校简介-九江一中",
+        "domain": "www.jjyz.cn",
+        "origin": "http://www.jjyz.cn",
+        "ip": "47.114.80.196",
+        "main": "index.html",
+        "url": "http://www.jjyz.cn/index.aspx?cid=10",
+        "totalSize": "166 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://www.jjyz.cn/index.aspx?cid=10",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://www.jjyz.cn/index.aspx?cid=10",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "cache-control": "private",
+                "content-type": "text/html; charset=utf-8",
+                "vary": "Accept-Encoding",
+                "server": "Microsoft-IIS/10.0",
+                "x-aspnet-version": "2.0.50727",
+                "set-cookie": [
+                    "ASP.NET_SessionId=uv0upszjqx4ilmq124saxrys; path=/; HttpOnly"
+                ],
+                "x-powered-by": "ASP.NET",
+                "date": "Tue, 03 Jan 2023 04:30:05 GMT",
+                "connection": "close",
+                "content-length": "24909"
+            }
+        },
+        "time": {
+            "start": "2023-01-03T04:30:04.929Z",
+            "end": "2023-01-03T04:30:10.184Z"
+        }
+    },
+    "options": {
+        "url": "http://www.jjyz.cn/index.aspx?cid=10",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
